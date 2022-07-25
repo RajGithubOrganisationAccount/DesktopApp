@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CraftDemonstration.exe" size="13752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CraftDemonstration.exe" size="15288">
       <assemblyIdentity name="CraftDemonstration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>04DgkSi+dB6zf4FcdYu68U3hF/TOg3DtUViEDQLw45U=</dsig:DigestValue>
+        <dsig:DigestValue>q++Rxr/uaAd0/xwOx8D3V2wzH+arF19zn9y387zylyY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
