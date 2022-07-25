@@ -1,0 +1,16 @@
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\CraftDemonstration.exe.config
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\CraftDemonstration.exe
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\CraftDemonstration.pdb
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.Properties.Resources.resources
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.csproj.GenerateResource.cache
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.exe
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.pdb
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.csproj.CopyComplete
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.DesktopApplication.resources
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\CraftDemonstration.exe.manifest
+C:\Users\z0045tbc\source\repos\CraftDemonstration\bin\Debug\CraftDemonstration.application
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.exe.manifest
+C:\Users\z0045tbc\source\repos\CraftDemonstration\obj\Debug\CraftDemonstration.application
