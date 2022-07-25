@@ -6,7 +6,7 @@ mono: none
 dotnet: 3.1
 
 before_script: 
-- dotnet restore ".\CraftDemonstration.sln" 
+- dotnet restore "CraftDemonstration.sln" 
 
 script: 
-- dotnet build ".\CraftDemonstration.sln" -c Release 
+- dotnet build "CraftDemonstration.sln" -c Release 
